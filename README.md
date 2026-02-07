@@ -50,6 +50,14 @@ Me chamo Victor Cesar Romanatto, tenho 20 anos e sou natural de Santa Catarina. 
 />
 <img 
     align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Java" 
     title="Java"
     width="30px" 
