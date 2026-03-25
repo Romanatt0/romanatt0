@@ -2,7 +2,7 @@
 
 **`Desenvolvedor de Software`**
 
-Me chamo Victor Cesar Romanatto, tenho 20 anos e sou natural de Santa Catarina. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UniSENAI, também sou formado como técnico em Análise e Desenvolvimento de Sistemas. Sou um entusiasta da tecnologia buscando aprendizado continuo para conseguir desenvolver novos projetos e stacks.
+Me chamo Victor Cesar Romanatto, tenho 19 anos e sou natural de Santa Catarina. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no UniSENAI, também sou formado como técnico em Análise e Desenvolvimento de Sistemas. Sou um entusiasta da tecnologia buscando aprendizado continuo para conseguir desenvolver novos projetos e stacks.
 
 ---
 
